@@ -1,0 +1,4 @@
+# Binarios publicados como assets de la release, no en el historial de git
+*.apk
+*.aab
+*.pdf
